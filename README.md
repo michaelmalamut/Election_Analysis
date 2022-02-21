@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-A Colorado Board of Elections has tasked me with coducting an election audit. Although, I have completed majority of the audit, the election commission has requested additional data to complete the full audit. I am tasked with collecting data on the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
+A Colorado Board of Elections has tasked me with conducting an election audit. Although, I have completed majority of the audit, the elections commission has requested additional data to complete the full audit. I am tasked with collecting data on the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
 ## Election-Audit Results
 ### Total Votes
