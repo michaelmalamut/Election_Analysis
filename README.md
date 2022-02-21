@@ -33,4 +33,4 @@ Winning Percentage - 73.8%
 ![election_analysis](https://user-images.githubusercontent.com/97328622/154870946-7b03d14b-9dae-492e-912b-0557e2fb484e.png)
 
 ## Election-Audit Summary
-
+After completing the Election audit, I have come to the results that Diana DeGette is the winning candidate with 73.8% of the vote. Using Python script, I successfully completed the task that the election commission gave me in figuring out the total casted votes, along with each counties total and how many votes each candidate received. When it comes to gathering and analyzing a large amount of data, like an election, Python script is very effective. Any data analyst can efficiently use Python to modify the data to get any information they need. Two examples would include modifying the Python Script to determine the method used to cast each vote, and the other would be detecting voter fraud, like voting irregularity, such as duplicate ballots being casted and counted.
